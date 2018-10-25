@@ -1,0 +1,8 @@
+America	350000000
+Brazil	210000000
+China	1400000000
+Denmark	5700000
+Nigeria	190000000
+Japan	1.27E8
+Emerica	2.1E8
+The Moon	7.8E8
